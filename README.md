@@ -5,7 +5,7 @@
 
 Este projeto foi desenvolvido com a IDE Android Studio na linguagem Java, versão API 16: Android 4.1 (Jelly Bean), com intuito de mostrar a conversão de um site em app Android, através da ferramenta de desenvolvimento Android Studio.
 ## Layout web
-![img1](https://user-images.githubusercontent.com/32855779/191420945-dd7f6fc7-df31-4ef6-bb7a-10299dfd00e3.PNG)
+![imgAppPortfolioAndroid](https://user-images.githubusercontent.com/32855779/202340896-0ff88eb4-bc80-4ff1-b437-1528c5c64dde.PNG)
 
 # Tecnologias utilizadas
 
